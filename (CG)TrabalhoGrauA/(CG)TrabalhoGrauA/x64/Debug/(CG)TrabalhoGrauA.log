@@ -1,0 +1,4 @@
+﻿  PacMan.cpp
+E:\Programação\Teste\Teste\Teste\PacMan.cpp(65,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Programação\Teste\Teste\Teste\PacMan.cpp(66,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (CG)TrabalhoGrauA.vcxproj -> E:\Programação\(CG)TrabalhoGrauA\x64\Debug\(CG)TrabalhoGrauA.exe

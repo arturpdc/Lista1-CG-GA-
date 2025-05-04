@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o\\(CG)TrabalhoGrauA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D63E27-EF12-4982-8A68-DF07AF525A3F}|(CG)TrabalhoGrauA\\(CG)TrabalhoGrauA.vcxproj|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\Teste\\Teste\\Teste\\Main.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Main.cpp",
+              "RelativeToolTip": "..\\Teste\\Teste\\Teste\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T21:38:19.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

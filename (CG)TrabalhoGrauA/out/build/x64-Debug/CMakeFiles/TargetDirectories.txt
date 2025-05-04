@@ -1,0 +1,3 @@
+E:/Programação/Teste/Teste/out/build/x64-Debug/CMakeFiles/Teste.dir
+E:/Programação/Teste/Teste/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/Programação/Teste/Teste/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

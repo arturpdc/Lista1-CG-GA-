@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Spiral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Spiral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PizzaSlice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\PizzaSlice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Octagon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Octagon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Pentagon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Pentagon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PacMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\PacMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\Star.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\SPIRAL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\SPIRAL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\TRIANGLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\TRIANGLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\RECTANGLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\RECTANGLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\CIRCLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\CIRCLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\STAR.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\STAR.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PIZZASLICE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\PIZZASLICE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\OCTAGON.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\OCTAGON.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PENTAGON.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\PENTAGON.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PACMAN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Teste\\PACMAN.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Main.cpp",
+              "RelativeDocumentMoniker": "Teste\\Main.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Main.cpp",
+              "RelativeToolTip": "Teste\\Main.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T00:03:26.457Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Teste\\Triangle.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Triangle.cpp",
+              "RelativeToolTip": "Teste\\Triangle.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T17:57:41.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Teste\\Rectangle.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Rectangle.cpp",
+              "RelativeToolTip": "Teste\\Rectangle.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T17:59:27.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Circle.cpp",
+              "RelativeDocumentMoniker": "Teste\\Circle.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Circle.cpp",
+              "RelativeToolTip": "Teste\\Circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T17:59:34.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spiral.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Spiral.cpp",
+              "RelativeDocumentMoniker": "Teste\\Spiral.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Spiral.cpp",
+              "RelativeToolTip": "Teste\\Spiral.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T17:59:40.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaSlice.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PizzaSlice.cpp",
+              "RelativeDocumentMoniker": "Teste\\PizzaSlice.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PizzaSlice.cpp",
+              "RelativeToolTip": "Teste\\PizzaSlice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T19:51:36.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Octagon.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Octagon.cpp",
+              "RelativeDocumentMoniker": "Teste\\Octagon.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Octagon.cpp",
+              "RelativeToolTip": "Teste\\Octagon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T19:55:45.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pentagon.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Pentagon.cpp",
+              "RelativeDocumentMoniker": "Teste\\Pentagon.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Pentagon.cpp",
+              "RelativeToolTip": "Teste\\Pentagon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T19:55:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacMan.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PacMan.cpp",
+              "RelativeDocumentMoniker": "Teste\\PacMan.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PacMan.cpp",
+              "RelativeToolTip": "Teste\\PacMan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T19:54:59.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Star.cpp",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Star.cpp",
+              "RelativeDocumentMoniker": "Teste\\Star.cpp",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\Star.cpp",
+              "RelativeToolTip": "Teste\\Star.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T19:50:25.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SPIRAL.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\SPIRAL.h",
+              "RelativeDocumentMoniker": "Teste\\SPIRAL.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\SPIRAL.h",
+              "RelativeToolTip": "Teste\\SPIRAL.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T18:08:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TRIANGLE.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\TRIANGLE.h",
+              "RelativeDocumentMoniker": "Teste\\TRIANGLE.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\TRIANGLE.h",
+              "RelativeToolTip": "Teste\\TRIANGLE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T18:08:17.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RECTANGLE.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\RECTANGLE.h",
+              "RelativeDocumentMoniker": "Teste\\RECTANGLE.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\RECTANGLE.h",
+              "RelativeToolTip": "Teste\\RECTANGLE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T18:08:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CIRCLE.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\CIRCLE.h",
+              "RelativeDocumentMoniker": "Teste\\CIRCLE.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\CIRCLE.h",
+              "RelativeToolTip": "Teste\\CIRCLE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T18:09:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "STAR.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\STAR.h",
+              "RelativeDocumentMoniker": "Teste\\STAR.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\STAR.h",
+              "RelativeToolTip": "Teste\\STAR.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T19:50:36.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PIZZASLICE.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PIZZASLICE.h",
+              "RelativeDocumentMoniker": "Teste\\PIZZASLICE.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PIZZASLICE.h",
+              "RelativeToolTip": "Teste\\PIZZASLICE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T19:51:55.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OCTAGON.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\OCTAGON.h",
+              "RelativeDocumentMoniker": "Teste\\OCTAGON.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\OCTAGON.h",
+              "RelativeToolTip": "Teste\\OCTAGON.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T19:55:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PENTAGON.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PENTAGON.h",
+              "RelativeDocumentMoniker": "Teste\\PENTAGON.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PENTAGON.h",
+              "RelativeToolTip": "Teste\\PENTAGON.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T19:55:32.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PACMAN.h",
+              "DocumentMoniker": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PACMAN.h",
+              "RelativeDocumentMoniker": "Teste\\PACMAN.h",
+              "ToolTip": "E:\\Programa\u00E7\u00E3o\\Teste\\Teste\\Teste\\PACMAN.h",
+              "RelativeToolTip": "Teste\\PACMAN.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T19:55:09.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
